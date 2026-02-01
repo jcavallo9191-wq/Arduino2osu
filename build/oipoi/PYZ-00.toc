@@ -1,0 +1,590 @@
+('C:\\Users\\satri\\Downloads\\New folder (2)\\build\\oipoi\\PYZ-00.pyz',
+ [('__future__',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_colorize',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pickle',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pynput',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput._info',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_info.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin_vks',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\darwin_vks.py',
+   'PYMODULE'),
+  ('pynput._util.uinput',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\uinput.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.keyboard._dummy',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.keyboard._uinput',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_uinput.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._dummy',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('queue',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('serial',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\__init__.py',
+   'PYMODULE'),
+  ('serial.serialcli',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\serialcli.py',
+   'PYMODULE'),
+  ('serial.serialjava',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\serialjava.py',
+   'PYMODULE'),
+  ('serial.serialposix',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\serialposix.py',
+   'PYMODULE'),
+  ('serial.serialutil',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\serialutil.py',
+   'PYMODULE'),
+  ('serial.serialwin32',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\serialwin32.py',
+   'PYMODULE'),
+  ('serial.win32',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\serial\\win32.py',
+   'PYMODULE'),
+  ('shutil',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa buka\\pypy\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('zipfile',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'D:\\Geometry-Dash-2.2-Oficial buat wang ga bisa '
+   'buka\\pypy\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])

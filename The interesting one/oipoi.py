@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+import serial
+from pynput.keyboard import Controller
+
+keyboard = Controller()
+held_keys = {}
+
+
+def main():
+    port = input("Enter COM port (e.g., COM7): ").strip()
+
+    ser = serial.Serial(port, 115200, timeout=0)
+    print(f"Connected to {port}\n")
+
+    buffer = ""
+
+    try:
+        while True:
+            if ser.in_waiting:
+                buffer += ser.read(ser.in_waiting).decode('utf-8', errors='ignore')
+
+                while '\n' in buffer:
+                    line, buffer = buffer.split('\n', 1)
+
+                    if ':' in line:
+                        cmd, key = line.strip().split(':', 1)
+
+                        if cmd == 'PRESS':
+                            if key not in held_keys:
+                                keyboard.press(key)
+                                held_keys[key] = True
+                        elif cmd == 'RELEASE':
+                            if key in held_keys:
+                                keyboard.release(key)
+                                del held_keys[key]
+
+    except KeyboardInterrupt:
+        for key in list(held_keys.keys()):
+            keyboard.release(key)
+        ser.close()
+
+
+if __name__ == "__main__":
+    main()
