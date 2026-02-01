@@ -2,9 +2,7 @@
 a rlly budget osu keypad but with arduino uno :/
 
 
-========================================
 oipoi – DIY osu! Keypad (Arduino + Python)
-========================================
 
 Release Version
 ---------------
